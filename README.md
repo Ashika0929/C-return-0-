@@ -4,7 +4,7 @@
 First year AIML student.
 C today, CODE tomorrow.
 
-- No insta, low profile, high growth
+- low profile, high growth
 - return 0 = success
 
 Learning journey: 2026 - 2030
